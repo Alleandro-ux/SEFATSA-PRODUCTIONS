@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://yourdomain.netlify.app/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About Section -->
+  <url>
+    <loc>https://yourdomain.netlify.app/#about</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Value Section -->
+  <url>
+    <loc>https://yourdomain.netlify.app/#value</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Services Section -->
+  <url>
+    <loc>https://yourdomain.netlify.app/#services</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Contact Section -->
+  <url>
+    <loc>https://yourdomain.netlify.app/#contact</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
+
+<!-- 
+INSTRUCTIONS:
+1. Save this file as "sitemap.xml" in your root directory (same folder as index.html)
+2. Replace ALL instances of "https://yourdomain.netlify.app" with your actual Netlify URL
+3. Update the <lastmod> dates to your deployment date (format: YYYY-MM-DD)
+4. After deploying, verify it works by visiting: https://yourdomain.netlify.app/sitemap.xml
+5. Submit this URL to Google Search Console and Bing Webmaster Tools
+-->

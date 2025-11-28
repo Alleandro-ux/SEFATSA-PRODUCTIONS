@@ -1,0 +1,21 @@
+# robots.txt for Sefatsa Productions
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location - Replace with your actual Netlify URL
+Sitemap: https://yourdomain.netlify.app/sitemap.xml
+
+# Crawl-delay for all bots
+Crawl-delay: 10
+
+# Specific bot configurations
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
